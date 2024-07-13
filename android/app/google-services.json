@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634058054839",
+    "project_id": "device-e15f3",
+    "storage_bucket": "device-e15f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634058054839:android:05981a81ab4161af5fc132",
+        "android_client_info": {
+          "package_name": "com.example.recsan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNGk4nK-Q6DkcjTEo0he0RyccX9PNvAB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
